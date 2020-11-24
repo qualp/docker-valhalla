@@ -2,7 +2,7 @@
 
 set -e
 
-url="https://github.com/valhalla/valhalla"
+url="https://github.com/qualp/valhalla"
 NPROC=$(nproc)
 
 git clone $url valhalla_git
